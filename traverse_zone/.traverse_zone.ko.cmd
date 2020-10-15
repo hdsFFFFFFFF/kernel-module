@@ -1,0 +1,1 @@
+cmd_/home/hds/github/kernel-module/traverse_zone/traverse_zone.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/hds/github/kernel-module/traverse_zone/traverse_zone.ko /home/hds/github/kernel-module/traverse_zone/traverse_zone.o /home/hds/github/kernel-module/traverse_zone/traverse_zone.mod.o;  true

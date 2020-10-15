@@ -1,0 +1,1 @@
+cmd_/home/hds/github/kernel-module/traverse_zone/traverse_zone.mod := { echo  /home/hds/github/kernel-module/traverse_zone/traverse_zone.o; echo; } > /home/hds/github/kernel-module/traverse_zone/traverse_zone.mod
