@@ -1,0 +1,1 @@
+cmd_/home/hds/github/kernel-module/numa/zone_idx_kern.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/hds/github/kernel-module/numa/zone_idx_kern.ko /home/hds/github/kernel-module/numa/zone_idx_kern.o /home/hds/github/kernel-module/numa/zone_idx_kern.mod.o;  true

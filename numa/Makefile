@@ -1,4 +1,4 @@
-obj-m := test_one_kern.o
+obj-m := zone_idx_kern.o
 
 CURRENT_PATH := $(shell pwd)
 

@@ -1,0 +1,2 @@
+/home/hds/github/kernel-module/numa/zone_idx_kern.o
+
